@@ -1,0 +1,1 @@
+Neste código temos a utilização de um LED RGB. Um LED RGB tem como característica principal, permitir através da utilização de diferentes valores de corrente aplicada aos seus terminais, a geração de vérias cores.
